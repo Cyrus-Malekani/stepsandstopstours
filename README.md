@@ -22,8 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> a4877ea (init)
-<<<<<<< HEAD
-=======
->>>>>>> d558981 (Vue init)
->>>>>>> saved-commit
